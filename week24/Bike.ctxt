@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bike
+comment1.params=name\ speed\ hasCarrier\ gearCount\ distance
+comment1.target=Bike(java.lang.String,\ int,\ boolean,\ int,\ double)
+comment2.params=
+comment2.target=boolean\ hasCarrier()
+comment3.params=
+comment3.target=int\ getGear()
+comment4.params=
+comment4.target=double\ getDistance()
+comment5.params=
+comment5.target=double\ calculateTravelTime()
+comment6.params=
+comment6.target=java.lang.String\ getInfo()
+numComments=7

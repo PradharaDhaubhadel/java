@@ -1,0 +1,6 @@
+Car,hhvvvv,7888,4,6779.0,879.0
+Car,hhvvvv,7888,4,6779.0,879.0
+Bike,jhhbhbhk,900,true,67,67768.0
+Car,hhvvvv,7888,4,6779.0,879.0
+Car,hhvvvv,7888,4,6779.0,879.0
+Bike,jhhbhbhk,900,true,67,67768.0

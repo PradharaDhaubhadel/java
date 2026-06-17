@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ speed\ seats\ fuelEfficiency\ tankCapacity
+comment1.target=Car(java.lang.String,\ int,\ int,\ double,\ double)
+comment2.params=
+comment2.target=double\ calculateRange()
+comment3.params=
+comment3.target=java.lang.String\ getInfo()
+numComments=4
